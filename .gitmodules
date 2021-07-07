@@ -1,0 +1,3 @@
+[submodule "git_learning_submodule_a"]
+	path = git_learning_submodule_a
+	url = https://github.com/jackyguo624/git_learning_submodule_a.git
